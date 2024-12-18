@@ -1,0 +1,38 @@
+const bacheca = [
+  {
+    titolo: "ciambellone" ,
+    contenuto: "topolino" ,
+    immagine: "images/ciambellone.jpeg" , 
+    tags: [ '' ,'', '', ] 
+  },
+
+  {
+    titolo: "cracker" ,
+    contenuto: "paperino" ,
+    immagine: "images/cracker_barbabietola.jpeg" , 
+    tags: [ '' ,'', '', ] 
+  },
+
+  {
+    titolo: "pane" ,
+    contenuto: "minnie" ,
+    immagine: "images/pane_fritto_dolce.jpeg" , 
+    tags: [ '' ,'', '', ] 
+  },
+
+  {
+    titolo: "pasta" ,
+    contenuto: "pluto" ,
+    immagine: "images/pasta_barbabietola.jpeg" , 
+    tags: [ '' ,'', '', ] 
+  },
+
+  {
+    titolo: "torta" ,
+    contenuto: "ciccio" ,
+    immagine: "images/torta_paesana.jpeg" , 
+    tags: [ '' ,'', '', ] 
+  }
+]
+
+module.exports = bacheca;
